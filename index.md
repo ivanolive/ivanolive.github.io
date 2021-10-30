@@ -6,7 +6,7 @@ title: Home
 ___
 
 
-**Ivan De Oliveira Nunes**
+**About**
 
 I'm an Assistant Professor of Computing Security at RIT.
 Before RIT I've received my Ph.D. from the University of California Irvine (UCI) in 2021.
@@ -16,6 +16,14 @@ I also earned an M.Sc. degree in Computer Science from the Federal University of
 While at UFMG, my master’s advisors were Profs. Antonio Loureiro  and Pedro Vaz de Melo.
 While at UFES, I worked with lots of folks, but most closely with Prof. Magnos Martinello and Prof. Roberta Lima Gomes.
 
+___
+
+**Research Interests**
+
+My research interests span the fields of Security/Privacy, Computer Networking, Embedded Systems, Applied Cryptography, and especially their intersection.
+In recent years, I’ve worked on CPS Security, Content-Centric Networking Security, Secure Multi-Party Computation (MPC) with applications to Blockchain technologies, Biometric-Based Authentication and Identification, and Opportunistic Mobile Networking.
+My Ph.D. dissertation was mostly focused on systematic hardware/software co-design of trustworthy and formally verified security services for resource-constrained IoT devices. Examples of such services are Remote Attestation, Secure Software Update, and Provable Code Execution.
+These services are designed to remain effective even under the assumption of full compromise of the IoT device’s software state.
 ___
 
 
@@ -30,7 +38,9 @@ ___
 
 ## Pointers
 
-+ [Google Scholar](https://scholar.google.com/citations?user=OVhpuAgAAAAJ&hl=en)
++ [Google Scholar](https://scholar.google.com/citations?user=2ITEX20AAAAJ&hl=en&oi=ao)
++ [dblp] (https://dblp.org/pid/173/5375.html)
++ [ResearchGate] (https://www.researchgate.net/profile/Ivan_De_Oliveira_Nunes2)
 
 ___
 
