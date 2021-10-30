@@ -6,7 +6,7 @@ title: Home
 ___
 
 
-**About**
+## About
 
 I'm an Assistant Professor of Computing Security at RIT.
 At RIT I'm affiliated with the Department of Computing Securitu, the Global Cybersecurity Institute (GCI) and the Golisano Colege of Computing and Information Sciences (GCCIS).
@@ -20,12 +20,14 @@ While at UFES, I worked with lots of folks, but most closely with Prof. Magnos M
 
 ___
 
-**Research Interests**
+## Research Interests
 
 My research interests span the fields of Security/Privacy, Computer Networking, Embedded Systems, Applied Cryptography, and especially their intersection.
 In recent years, I’ve worked on CPS Security, Content-Centric Networking Security, Secure Multi-Party Computation (MPC) with applications to Blockchain technologies, Biometric-Based Authentication and Identification, and Opportunistic Mobile Networking.
+
 My Ph.D. dissertation was mostly focused on systematic hardware/software co-design of trustworthy and formally verified security services for resource-constrained IoT devices. Examples of such services are Remote Attestation, Secure Software Update, and Provable Code Execution.
 These services are designed to remain effective even under the assumption of full compromise of the IoT device’s software state.
+
 ___
 
 
