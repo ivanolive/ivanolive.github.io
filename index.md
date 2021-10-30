@@ -9,6 +9,8 @@ ___
 **About**
 
 I'm an Assistant Professor of Computing Security at RIT.
+At RIT I'm affiliated with the Department of Computing Securitu, the Global Cybersecurity Institute (GCI) and the Golisano Colege of Computing and Information Sciences (GCCIS).
+
 Before RIT I've received my Ph.D. from the University of California Irvine (UCI) in 2021.
 At UCI I was advised by Prof. Gene Tsudik and a member of the Sprout Lab.
 I studied Computer Engineering at the Federal University of Espirito Santo (UFES), in Brazil from 2009 to 2014.
