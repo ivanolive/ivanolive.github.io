@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            André Pacheco
+title:            Ivan De Oliveira Nunes
 tagline:          ''
-description:      'AI Research Engineer at Samsung R&D Institute Brazil'
-url:              www.pachecoandre.com.br
+description:      'Assistant Professor at RIT'
+url:              ivan.csec.rit.edu
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,8 +15,8 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:           
-  name:           'André Pacheco'
-  url:            https://twitter.com/paaatcha
+  name:           'Ivan De Oliveira Nunes'
+  url:            https://twitter.com/ionunes
 
 paginate:         5
 paginate_path:    '/blog/page:num'
@@ -29,7 +29,7 @@ plugins:
 
 # Sidebar link settings
 sidebar_home_link:  true
-sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+sidebar_blog_link:  '/'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
