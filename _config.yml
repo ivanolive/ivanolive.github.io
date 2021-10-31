@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:           
   name:           'Ivan De Oliveira Nunes'
-  url:            https://twitter.com/ionunes
+  url:            ivan.csec.rit.edu
 
 paginate:         5
 paginate_path:    '/blog/page:num'
