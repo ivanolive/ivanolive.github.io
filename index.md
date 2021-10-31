@@ -50,5 +50,5 @@ ___
 ___
 
 ## Contact
-+ **Email**: `<insert_my_first_name>oliv@mail.rit.edu`
++ **Email**: `<my_first_name>oliv@mail.rit.edu`
 

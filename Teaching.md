@@ -6,7 +6,7 @@ sidebar_sort_order: 2
 ---
 
 
-Here you can find the disciplines I taught or acted as a teaching assistant. It's available only in Portuguese.
+Here is a list of courses I am currently teaching or taught before.
 
 ### 2020/1
 + TA: [Programação II](pages/teaching/progii_2020_1)
