@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research
+title: Research/Publications
 sidebar_link: true
-sidebar_sort_order: 2
+sidebar_sort_order: 1
 ---
 
 ___

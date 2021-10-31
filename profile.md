@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Profile
+title: Students
 sidebar_link: true
-sidebar_sort_order: 1
+sidebar_sort_order: 2
 ---
 
 ___
