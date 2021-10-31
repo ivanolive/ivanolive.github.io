@@ -2,7 +2,7 @@
 layout: page
 title: Students
 sidebar_link: true
-sidebar_sort_order: 2
+sidebar_sort_order: 3
 ---
 
 ___
