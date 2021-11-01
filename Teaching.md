@@ -8,16 +8,38 @@ sidebar_sort_order: 2
 
 Here is a list of courses I am currently teaching or taught before.
 
-### 2020/1
-+ TA: [Programação II](pages/teaching/progii_2020_1)
+
+### Spring 2022
++ Instructor: Sensor & SCADA Security (a.k.a. CPS Security)  (RIT CSEC 741) 
 
 ___
 
-### 2018/2
-+ TA: [Programação I]()
-+ TA: [Programação Básica de Computadores]()
+### Fall 2021
++ Instructor: Trusted Computing & Trusted Execution (RIT CSEC 559/659) 
 
 ___
 
-### 2015/2
-+ [Programação Básica de Computadores](pages/teaching/prog_eng_civil)
+### Winter 2021
++ Shadow Instructor: Network & Distributed System Security (grad version) (UCI CS203/NETSYS240) 
+
+___
+
+### 2019
++ TA: Network & Distributed System Security (grad version) (UCI CS203/NETSYS240) 
+
+___
+
+### 2018
++ TA: Network & Distributed System Security (undergrad version) (UCI CS134) 
+
+___
+
+### 2015
++ TA: Computer Networks (UFMG)
+
+___
+
+### 2014 & before
++ TA: Several classes (computer programing, data structures, etc) as undergrad TA.
+
+___
