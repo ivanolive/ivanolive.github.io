@@ -8,8 +8,8 @@ ___
 
 ## About
 
-I'm an Assistant Professor of Computing Security at RIT.
-I'm affiliated with the Department of Computing Security (CSEC), the Global Cybersecurity Institute (GCI), and the Golisano Colege of Computing and Information Sciences (GCCIS).
+I'm an Assistant Professor of Computing Security at [RIT](rit.edu).
+I'm affiliated with the [Department of Computing Security (CSEC)](https://www.rit.edu/computing/department-computing-security), the [Global Cybersecurity Institute (GCI)](https://www.rit.edu/cybersecurity/facilities), and the [Golisano Colege of Computing and Information Sciences (GCCIS)](https://www.rit.edu/computing/).
 
 Before RIT I received my Ph.D. from the University of California Irvine (UCI), in 2021.
 At UCI I was advised by Prof. [Gene Tsudik](https://www.ics.uci.edu/~gts/) and a member of the [Sprout Lab](http://sprout.ics.uci.edu/).
