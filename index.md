@@ -26,7 +26,7 @@ My research interests span the fields of Security & Privacy, Computer Networking
 In recent years, I’ve worked on CPS Security, Content-Centric Networking Security, Secure Multi-Party Computation (MPC) with applications to Blockchain technologies, Biometric-Based Authentication and Identification, and Opportunistic Mobile Networking.
 
 My Ph.D. dissertation (2021) focused on the systematic hardware/software co-design of trustworthy and formally verified security services for resource-constrained embedded systems.
-Examples of such services include Remote Attestation, Secure Software Update, and Provable Guarantees Code Execution.
+Examples of such services include Remote Attestation, Secure Software Update, and Provable/Guaranteed Code Execution.
 They are designed to remain effective even under the assumption of full compromise of the embedded system’s software state.
 
 ___
