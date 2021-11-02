@@ -20,9 +20,9 @@ ___
 
 #### Journal Reviewer:
 
-TODO... update
+- TODO... add list
 
 
 #### Conference External Reviewer:
 
-TODO... update
+- TODO... add list
