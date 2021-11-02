@@ -8,7 +8,7 @@ sidebar_sort_order: 4
 
 ___
 
-## Service
+## Peer Review
 
 #### Conference Program Committees (PC):
 
@@ -30,10 +30,9 @@ ___
 
 #### Selected Journal Reviews:
 
-- ACM TODAES’21
+- ACM TODAES (2021)
 - Journal of Computer Security (2021)
-- ACM TODAES’20
-- Springer Computing 2020
-- Elsevier Ad-Hoc Networks’17
-- IEEE Wireless Communications’16
+- ACM TODAES (2020)
+- Elsevier Ad-Hoc Networks (2017)
+- IEEE Wireless Communications (2016)
 
