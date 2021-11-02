@@ -5,6 +5,14 @@ title: Home
 
 ___
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ I'm recruiting one Ph.D. student for Fall 2022 @@
+```
+**I'm recruiting one Ph.D. student for Fall 2022**
 
 ## About
 
