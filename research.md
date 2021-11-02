@@ -107,7 +107,7 @@ ___
 #### SNUSE: A Secure Computation Approach for Large-Scale User Re-Enrollment in Biometric Authentication Systems
 - **Authors:** Ivan De Oliveira Nunes; Karim Eldefrawy; Tancrede Lepoint
 - **In:** Future Generation Computer Systems 2019
-- **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/2019_systematic_CRA_ICDCS.pdf)
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2019_snuse_fgcs.pdf)
 
 ___
 
@@ -135,9 +135,9 @@ ___
 
 
 #### Combining Spatial and Social Awareness in D2D Opportunistic Routing
-- **Authors:** Ivan De Oliveira Nunes; Karim Eldefrawy; Tancrede Lepoint
-- **In:** CSCML 2018
-- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2019_snuse_fgcs.pdf)
+- **Authors:** Ivan O. Nunes; Clayson Celes; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
+- **In:** IEEE Communications Magazine 2018
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2018_sampler_ieee_commag.pdf)
 
 
 ___
