@@ -10,7 +10,7 @@ ___
 
 ## Peer Review
 
-#### Conference Program Committees (PC):
+#### Conference Program Committee Member (PC):
 
 - [NDSS 2022](https://www.ndss-symposium.org/ndss2022/)
 
