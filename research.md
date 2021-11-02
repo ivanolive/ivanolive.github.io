@@ -9,10 +9,11 @@ ___
 
 ## Publications (recent first)
 
-#### Title
-- **Authors:** authors
-- **In:** conference
-- **Download:** [paper](link) -- [code](link)
+#### Delegated Attestation: Scalable Remote Attestation of Commodity CPS by Blending Proofs of Execution with Software Attestation
+- **Authors:** Mahmoud Ammar, Bruno Crispo, Ivan De Oliveira Nunes, and Gene Tsudik
+- **In:** ACM Wisec’2021
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/wisec21-final45.pdf)
+
 
 <!--
 ## Talks and presentations
