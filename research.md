@@ -9,27 +9,146 @@ ___
 
 ## Publications (recent first)
 
+
+
+### 2021
+
+#### On the TOCTOU Problem in Remote Attestation
+- **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, Norrathep Rattanavipanon, and Gene Tsudik
+- **In:** ACM CCS 2021
+- **Download:** [paper](https://arxiv.org/pdf/2005.03873.pdf)
+
+#### DIALED: Data Integrity Attestation for Low-end Embedded Devices
+- **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, and Gene Tsudik
+- **In:** DAC 2021
+- **Download:** [paper](https://arxiv.org/pdf/2103.12928.pdf)
+
 #### Delegated Attestation: Scalable Remote Attestation of Commodity CPS by Blending Proofs of Execution with Software Attestation
 - **Authors:** Mahmoud Ammar, Bruno Crispo, Ivan De Oliveira Nunes, and Gene Tsudik
-- **In:** ACM Wisec’2021
+- **In:** ACM WiSec 2021
 - **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/wisec21-final45.pdf)
 
+#### On the Root of Trust Identification Problem
+- **Authors:** Ivan De Oliveira Nunes, Xuhua Ding, and Gene Tsudik
+- **In:** ACM IPSN 2021
+- **Download:** [paper](https://arxiv.org/pdf/2010.13858.pdf)
 
-<!--
-## Talks and presentations
+#### Tiny-CFA: Minimalistic Control-Flow Attestation Using Verified Proofs of Execution
+- **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, and Gene Tsudik
+- **In:** DATE 2021
+- **Download:** [paper](https://arxiv.org/pdf/2103.12928.pdf)
 
-+ **Jul 2020:** On Out-of-Distribution Detection Algorithms With Deep Neural Skin Cancer Classifiers. CVPR 2020 @ ISIC 2020. [Download](https://www.youtube.com/watch?v=3kICSeBOndk&feature=youtu.be)
-+ **Dec 2019:** Recent advances in deep learning applied to skin cancer detection. NeurIPS 2019 @ Retrospectives workshop. [Download](assets/files/talks/neurips2019.pdf)
-+ **Mar 2019:** Introduction to machine learning. Faculdade Multivix, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/labcinufes-example.pdf)
-+ **Nov 2018:** Introduction to Capsule Networks. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/caps.pdf)
-+ **Nov 2018:** Introduction to Helmholtz machine. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/HM.pdf)
-+ **Jun 2018**: An approach to improve online sequential extreme learning machines using restricted Boltzmann machines. IJCNN 2018, Rio de Janeiro, Brazil. [Download](assets/files/talks/rbm-os-elm.pdf)
-+ **Apr 2018:** Restricted Boltzmann Machine for clustering data. Computer Science, UFES, Vitória, Brazil. [Download](assets/files/talks/clustering_rbm.pdf)
-+ **Mar 2018:** Introduction to Python for scientific computer. Production Engineer, UFES, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/IntroPython.pdf)
-+ **Sep 2017:** Overview of singular value decomposition. Computer Science, UFES. Vitória, UFES. *Portuguese only*. [Download](assets/files/talks/svd.pdf)
-+ **Apr 2017:** Classification fusion. Computer Science, UFES, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/agg-class.pdf)
-+ **Jul 2016:** Restricted Boltzmann Machine for classification. SBPO 2016. Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/drbm.pdf)
-+ **Jul 2016:** Introduction to data classification. Jornada de Atualização em Computação, Elétrica e Eletrônica - JAACE, UFES, Vitória, Brazil. *Portuguese only*. [Download](assets/files/talks/intro-data-class.pdf)
-+ **Aug 2014:** Raking algorithms with A-TOPSIS. ITQM 2014, Rio de Janeiro, Brazil. [Download](assets/files/talks/atopsis.pdf)
 
--->
+
+
+### 2020
+
+#### APEX: A Verified Architecture for Proofs of Execution on Remote Devices Under Full Software Compromise
+- **Authors:** Ivan De Oliveira Nunes, Karim Eldefrawy, Norrathep Rattanavipanon, and Gene Tsudik
+- **In:** USENIX Security 2020
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/apex.pdf)
+
+
+
+
+### 2019
+
+#### VRASED: A Verified Hardware/Software Co-Design for Remote Attestation
+- **Authors:** Ivan De Oliveira Nunes, Karim Eldefrawy, Michael Steiner, Norrathep Rattanavipanon, and Gene Tsudik
+- **In:** USENIX Security 2019
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/vrased.pdf)
+
+#### PURE: Using Verified Remote Attestation to Obtain Proofs of Update, Reset and Erasure in Low-End Embedded Systems
+- **Authors:** Ivan De Oliveira Nunes, Karim Eldefrawy, Norrathep Rattanavipanon, and Gene Tsudik
+- **In:** ACM/IEEE ICCAD 2019
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/pure.pdf)
+
+#### Towards Systematic Design of Collective Remote Attestation Protocols
+- **Authors:** Ivan De Oliveira Nunes, Ghada Dessouky, Ahmad Ibrahim, Norrathep Rattanavipanon, Ahmad-Reza Sadeghi and Gene Tsudik
+- **In:** IEEE ICDCS 2019
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/2019_systematic_CRA_ICDCS.pdf)
+
+#### SNUSE: A Secure Computation Approach for Large-Scale User Re-Enrollment in Biometric Authentication Systems
+- **Authors:** Ivan De Oliveira Nunes; Karim Eldefrawy; Tancrede Lepoint
+- **In:** Future Generation Computer Systems 2019
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/2019_systematic_CRA_ICDCS.pdf)
+
+
+### 2018
+
+#### KRB-CCN: Lightweight Authentication & Access Control for Private Content-Centric Networks
+- **Authors:** Ivan De Oliveira Nunes and Gene Tsudik
+- **In:** ACNS 2018
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/ndn/papers/krbccn.pdf)
+
+#### Secure Non-Interactive User Re-Enrollment in Biometrics-based Identification and Authentication Systems
+- **Authors:** Ivan De Oliveira Nunes; Karim Eldefrawy; Tancrede Lepoint
+- **In:** CSCML 2018
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2018_snuse.pdf)
+
+#### Combining Spatial and Social Awareness in D2D Opportunistic Routing
+- **Authors:** Ivan De Oliveira Nunes; Karim Eldefrawy; Tancrede Lepoint
+- **In:** CSCML 2018
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2019_snuse_fgcs.pdf)
+
+
+
+### 2017
+
+#### Namespace Tunnels in Content-Centric Networks
+- **Authors:** Ivan De Oliveira Nunes; Gene Tsudik; Christopher Wood
+- **In:** IEEE LCN 2017
+- **Download:** [paper](http://sprout.ics.uci.edu/projects/ndn/papers/ccvpn17.pdf)
+
+#### GRM: Group Regularity Mobility Model
+- **Authors:** Ivan O. Nunes; Clayson Celes; Michael Silva; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
+- **In:** ACM MSWIM 2017
+- **Download:** [paper](https://arxiv.org/pdf/1706.07908.pdf%7D)
+
+#### GROUPS-NET: Group Meetings Aware Routing in Multi-Hop D2D Networks
+- **Authors:** Ivan O. Nunes; Clayson Celes; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
+- **In:** Computer Networks 2017
+- **Download:** [paper](https://arxiv.org/pdf/1706.07908.pdf%7D)
+
+#### ST-Drop: A Novel Buffer Management Strategy for D2D Opportunistic Networks
+- **Authors:** Ivan O. Nunes; Clayson Celes; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
+- **In:** IEEE ISCC 2017
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2017_stdrop_iscc.pdf)
+
+
+
+### 2016
+
+#### AoT: Authentication and Access Control for the Entire IoT Device Life-Cycle
+- **Authors:** Antonio Lemos Maia Neto; Artur Luis Fernandes; Ítalo Cunha; Michele Nogueira; Ivan Oliveira Nunes;
+Leonardo Cotta; Nicolas Gentille; Antonio A. F. Loureiro; Diego F. Aranha; Harsh Kupwade Patil; Leonardo B. Oliveira
+- **In:** ACM SenSys 2016
+- **Download:** [paper](https://dl.acm.org/doi/pdf/10.1145/2994551.2994555)
+
+#### Group Mobility: Detection, Tracking and Characterization
+- **Authors:** Ivan De Oliveira Nunes ; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
+- **In:** IEEE ICC 2016
+- **Download:** [paper](http://arxiv.org/pdf/1512.04828.pdf)
+
+#### Leveraging D2D Multi-Hop Communication Through Social Group Meetings Awareness
+- **Authors:** Ivan O. Nunes; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
+- **In:** IEEE Wireless Communications 2016
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2016_IEEE_WCM_leveraging_D2D.pdf)
+
+
+
+### 2015
+
+#### Fault Tolerance in Strongly Minimum Energy Topology with MLD: A Distributed, Energy Efficient yet Simple Protocol
+- **Authors:** Ivan Oliveira Nunes ; Luiz F. M. Vieira; Antonio A. F. Loureiro
+- **In:** SBRC (Workshops) 2015
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2015_WTF_FaultTolerant%20TopologyWSN.pdf)
+
+#### Designing a Low Cost Home WSN for Remote Energy Monitoring and Eletronic Devices Control
+- **Authors:** Ivan Oliveira Nunes ; Magnos Martinello; Antonio A. F. Loureiro
+- **In:** SBRC (Workshops) 2015
+- **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2015_WTF_FaultTolerant%20TopologyWSN.pdf)
+
+
+
+
