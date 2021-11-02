@@ -13,10 +13,15 @@ ___
 
 ### 2021
 
+___
+
 #### On the TOCTOU Problem in Remote Attestation
 - **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, Norrathep Rattanavipanon, and Gene Tsudik
 - **In:** ACM CCS 2021
 - **Download:** [paper](https://arxiv.org/pdf/2005.03873.pdf)
+
+___
+
 
 #### DIALED: Data Integrity Attestation for Low-end Embedded Devices
 - **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, and Gene Tsudik
