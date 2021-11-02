@@ -168,7 +168,7 @@ ___
 #### GROUPS-NET: Group Meetings Aware Routing in Multi-Hop D2D Networks
 - **Authors:** Ivan O. Nunes; Clayson Celes; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
 - **In:** Computer Networks 2017
-- **Download:** [paper](https://arxiv.org/pdf/1706.07908.pdf%7D)
+- **Download:** [paper](https://www.sciencedirect.com/science/article/pii/S1389128617303237)
 
 ___
 
