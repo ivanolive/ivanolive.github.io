@@ -10,4 +10,8 @@ ___
 
 ## Current Students
 
-TODO: Under contruction
+###Ph.D.
+
+#### [Adam Caulfield](https://people.rit.edu/~ac7717/) (from 2020)
+
+#### [Antonio Joia Neto](https://www.linkedin.com/in/antonio-joia-neto-362782b2/) (from 2021)
