@@ -44,10 +44,10 @@ ___
 ___
 
 
-## Pointers
+## My Pointers
 
++ [DBLP](https://dblp.org/pid/173/5375.html)
 + [Google Scholar](https://scholar.google.com/citations?user=2ITEX20AAAAJ&hl=en&oi=ao)
-+ [dblp](https://dblp.org/pid/173/5375.html)
 + [ResearchGate](https://www.researchgate.net/profile/Ivan_De_Oliveira_Nunes2)
 
 ___

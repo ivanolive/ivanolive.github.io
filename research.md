@@ -15,7 +15,7 @@ ___
 
 ___
 
-#### On the TOCTOU Problem in Remote Attestation
+#### \[CCS'21\] On the TOCTOU Problem in Remote Attestation
 - **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, Norrathep Rattanavipanon, and Gene Tsudik
 - **In:** ACM CCS 2021
 - **Download:** [paper](https://arxiv.org/pdf/2005.03873.pdf)
