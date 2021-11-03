@@ -31,6 +31,7 @@ My Ph.D. dissertation (2021) focused on the systematic hardware/software co-desi
 Examples of such services include Remote Attestation, Secure Software Update, and Provable/Guaranteed Code Execution.
 They are designed to remain effective even under the assumption of full compromise of the embedded system’s software state.
 
+<!--
 ___
 
 
@@ -39,7 +40,7 @@ ___
 + **[2021-08-11]** Started as an Assistant Professor at RIT!
 + **[2021-06-21]** I have successfully defended my Ph.D. Thesis: Verifiable Integrity and Availability for Code and Execution in Simple Embedded Systems!
 + **[2021-05-15]** I will be serving on NDSS 2022 and AsiaCCS 2022 Program Committees!
-
+-->
 ___
 
 
