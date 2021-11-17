@@ -14,4 +14,4 @@ ___
 
 #### [Adam Caulfield](https://people.rit.edu/~ac7717/) (from 2020)
 
-#### [Antonio Joia Neto](https://www.linkedin.com/in/antonio-joia-neto-362782b2/) (from 2021)
+#### [Antonio Joia Neto](https://a-joia.github.io/) (from 2021)
