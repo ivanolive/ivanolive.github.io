@@ -10,6 +10,17 @@ ___
 ## Publications (recent first)
 
 
+## 2022
+
+___
+
+#### **\[USENIX SEC'22\]** GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices) 
+- **Authors:** Esmerald Aliaj, Ivan De Oliveira Nunes, and Gene Tsudik
+- **In:** USENIX SEC'22
+- **Download:** [pdf]
+
+___
+
 
 ## 2021
 
