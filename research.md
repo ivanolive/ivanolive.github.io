@@ -185,7 +185,7 @@ ___
 
 
 #### **\[ISCC'17\]** ST-Drop: A Novel Buffer Management Strategy for D2D Opportunistic Networks
-- **Authors:** Ivan O. Nunes; Clayson Celes; Pedro O. S. Vaz de Melo; Antonio A. F. Loureiro
+- **Authors:** Michael D. Silva; Ivan O. Nunes; Raquel A. F. Mini; Antonio A. F. Loureiro
 - **In:** IEEE ISCC 2017
 - **Download:** [paper](http://sprout.ics.uci.edu/people/ivan/pubs/2017_stdrop_iscc.pdf)
 
