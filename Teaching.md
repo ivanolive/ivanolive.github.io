@@ -10,7 +10,7 @@ Here is a list of courses I am currently teaching or taught before.
 
 
 ### Spring 2022
-+ **Instructor:** Sensor & SCADA Security (a.k.a. CPS Security)  (RIT CSEC 741) 
++ **Instructor:** Sensor & SCADA Security (a.k.a. IoT Security)  (RIT CSEC 741) 
 
 ___
 
