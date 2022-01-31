@@ -5,9 +5,6 @@ title: Home
 
 ___
 
-
-**I'm recruiting one Ph.D. student for Fall 2022!**
-
 ## About
 
 I am an Assistant Professor of Computing Security at [RIT](rit.edu).
