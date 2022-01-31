@@ -15,3 +15,8 @@ ___
 #### [Adam Caulfield](https://people.rit.edu/~ac7717/) (from 2020)
 
 #### [Antonio Joia Neto](https://a-joia.github.io/) (from 2021)
+
+
+### MSc Advisor:
+
+#### [Liam Tyler](https://www.linkedin.com/in/liamgtyler/)
