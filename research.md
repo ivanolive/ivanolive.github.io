@@ -14,11 +14,16 @@ ___
 
 ___
 
+#### **\[DAC'22\]** ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems 
+- **Authors:** Adam Caulfield, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
+- **In:** DAC 2022
+- **Download:** [available soon]
+
+
 #### **\[USENIX SEC'22\]** GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices) 
 - **Authors:** Esmerald Aliaj, Ivan De Oliveira Nunes, and Gene Tsudik
 - **In:** USENIX Security 2022
 - **Download:** [available soon]
-
 ___
 
 
