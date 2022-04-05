@@ -12,6 +12,16 @@ ___
 
 ## 2022
 
+
+___
+
+
+#### **\[Oakland'22\]** Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA
+
+- **Authors:** Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, and Gene Tsudik
+- **In:** IEEE Symposium on Security and Privacy 2022
+- **Download:** [available soon]
+
 ___
 
 #### **\[DAC'22\]** ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems 
