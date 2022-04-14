@@ -12,6 +12,8 @@ ___
 
 #### Conference Program Committee Member:
 
+- [NDSS 2023](https://www.ndss-symposium.org/ndss2023/)
+
 - [NDSS 2022](https://www.ndss-symposium.org/ndss2022/)
 
 - [ACM AsiaCCS 2022](https://asiaccs2022.conferenceservice.jp/)
