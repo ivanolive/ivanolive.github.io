@@ -20,7 +20,7 @@ ___
 
 - **Authors:** Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, and Gene Tsudik
 - **In:** IEEE Symposium on Security and Privacy 2022
-- **Download:** [available soon]
+- **Download:** [paper](http://sprout.ics.uci.edu/pubs/pfb.pdf)
 
 ___
 
