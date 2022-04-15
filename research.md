@@ -20,14 +20,14 @@ ___
 
 - **Authors:** Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, and Gene Tsudik
 - **In:** IEEE Symposium on Security and Privacy 2022
-- **Download:** [paper](http://sprout.ics.uci.edu/pubs/pfb.pdf)
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/pfb.pdf)
 
 ___
 
 #### **\[DAC'22\]** ASAP: Reconciling Asynchronous Real-Time Operations and Proofs of Execution in Simple Embedded Systems 
 - **Authors:** Adam Caulfield, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
 - **In:** DAC 2022
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/asap.pdf)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 #### **\[USENIX SEC'22\]** GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices) 
 - **Authors:** Esmerald Aliaj, Ivan De Oliveira Nunes, and Gene Tsudik
 - **In:** USENIX Security 2022
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/garota.pdf)
 
 ___
 
