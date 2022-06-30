@@ -16,7 +16,7 @@ ___
 ___
 
 
-#### **\[Oakland'22\]** Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA
+#### **\[S&P'22\]** Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA
 
 - **Authors:** Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, and Gene Tsudik
 - **In:** IEEE Symposium on Security and Privacy 2022
