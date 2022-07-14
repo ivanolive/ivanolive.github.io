@@ -16,6 +16,15 @@ ___
 ___
 
 
+#### **\[ICCAD'22\]** CASU: Compromise Avoidance via Secure Updates for Low-end Embedded Systems
+
+- **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, Youngil Kim, and Gene Tsudik
+- **In:** IEEE/ACM International Conference on Computer-Aided Design 2022
+- **Download:** [to be released soon]
+
+___
+
+
 #### **\[S&P'22\]** Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA
 
 - **Authors:** Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, and Gene Tsudik
