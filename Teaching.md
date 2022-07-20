@@ -9,6 +9,11 @@ sidebar_sort_order: 2
 Here is a list of courses I am currently teaching or taught before.
 
 
+### Fall 2022
++ **Instructor:** Trusted Computing & Trusted Execution (RIT CSEC 530/630)
+
+___
+
 ### Spring 2022
 + **Instructor:** Sensor & SCADA Security (a.k.a. IoT Security)  (RIT CSEC 741) 
 
