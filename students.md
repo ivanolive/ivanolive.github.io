@@ -10,7 +10,7 @@ ___
 
 ## Current Students
 
-### PhD Advisor:
+### PhD:
 
 #### [Adam Caulfield](https://people.rit.edu/~ac7717/) (from 2020)
 
