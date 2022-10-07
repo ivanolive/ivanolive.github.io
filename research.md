@@ -20,7 +20,7 @@ ___
 
 - **Authors:** Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, Youngil Kim, and Gene Tsudik
 - **In:** IEEE/ACM International Conference on Computer-Aided Design 2022
-- **Download:** [to be released soon]
+- **Download:** [paper](https://arxiv.org/pdf/2209.00813.pdf)
 
 ___
 
