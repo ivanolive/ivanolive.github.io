@@ -17,3 +17,10 @@ ___
 #### [Antonio Joia Neto](https://a-joia.github.io/) (from 2021)
 
 #### [Liam Tyler](https://www.linkedin.com/in/liamgtyler/) (from 2022)
+
+
+### MSc:
+
+#### [Cristabelle Alvares](https://www.linkedin.com/in/christabelle-alvares/) (2023)
+
+#### [Spencer Roth](https://www.linkedin.com/in/jspencerroth/) (from 2023)

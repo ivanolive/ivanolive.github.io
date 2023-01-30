@@ -8,7 +8,7 @@ ___
 ## About
 
 I am an Assistant Professor of Computing Security at [RIT](rit.edu).
-I'm affiliated with the [Department of Computing Security (CSEC)](https://www.rit.edu/computing/department-computing-security), the [Global Cybersecurity Institute (GCI)](https://www.rit.edu/cybersecurity/facilities), and the [Golisano Colege of Computing and Information Sciences (GCCIS)](https://www.rit.edu/computing/).
+I'm affiliated with the [Department of Computing Security (CSEC)](https://www.rit.edu/computing/department-computing-security), the [Global Cybersecurity Institute (GCI)](https://www.rit.edu/cybersecurity/facilities), and the [Golisano College of Computing and Information Sciences (GCCIS)](https://www.rit.edu/computing/).
 I am also a faculty member of the [Computing and Information Sciences Ph.D. program](https://www.rit.edu/study/computing-and-information-sciences-phd).
 
 Before RIT I received my Ph.D. from the University of California Irvine (UCI), in 2021.
