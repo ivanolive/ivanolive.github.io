@@ -10,6 +10,21 @@ ___
 ## Publications (recent first)
 
 
+## 2023
+
+
+___
+
+
+#### **\[RTAS'23\]** ISC-FLAT: On the Conflict Between Control Flow Attestation and Real-Time Operations
+
+- **Authors:** Antonio Joia Neto and Ivan De Oliveira Nunes
+- **In:** IEEE Real-Time and Embedded Technology and Applications Symposium 2023
+- **Download:** [(available soon)]
+
+___
+
+
 ## 2022
 
 
