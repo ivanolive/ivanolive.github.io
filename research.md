@@ -20,7 +20,7 @@ ___
 
 - **Authors:** Antonio Joia Neto and Ivan De Oliveira Nunes
 - **In:** IEEE Real-Time and Embedded Technology and Applications Symposium 2023
-- **Download:** [(available soon)]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/ISC-FLAT.pdf)
 
 ___
 
