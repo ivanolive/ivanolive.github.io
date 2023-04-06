@@ -12,6 +12,8 @@ ___
 
 #### Conference Program Committee Member:
 
+- [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
+
 - [NDSS 2023](https://www.ndss-symposium.org/ndss2023/)
 
 - [ESORICS 2023](https://esorics2023.org/)
