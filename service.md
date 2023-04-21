@@ -12,6 +12,8 @@ ___
 
 #### Conference Program Committee Member:
 
+- [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)
+
 - [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
 
 - [NDSS 2023](https://www.ndss-symposium.org/ndss2023/)
