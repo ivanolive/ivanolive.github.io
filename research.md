@@ -12,6 +12,15 @@ ___
 
 ## 2023
 
+___
+
+
+#### **\[USENIX SEC'23\]** ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control Flow Attestation 
+
+- **Authors:** Adam Caulfield, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
+- **In:** USENIX Security Symposium 2023
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/ISC-FLAT.pdf)
+
 
 ___
 
@@ -58,7 +67,7 @@ ___
 
 #### **\[USENIX SEC'22\]** GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices) 
 - **Authors:** Esmerald Aliaj, Ivan De Oliveira Nunes, and Gene Tsudik
-- **In:** USENIX Security 2022
+- **In:** USENIX Security Symposium 2022
 - **Download:** [paper](https://people.rit.edu/~ixdics/pubs/garota.pdf)
 
 ___
@@ -119,7 +128,7 @@ ___
 
 #### **\[USENIX Sec'20\]** APEX: A Verified Architecture for Proofs of Execution on Remote Devices Under Full Software Compromise
 - **Authors:** Ivan De Oliveira Nunes, Karim Eldefrawy, Norrathep Rattanavipanon, and Gene Tsudik
-- **In:** USENIX Security 2020
+- **In:** USENIX Security Symposium 2020
 - **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/apex.pdf)
 
 ___
@@ -135,7 +144,7 @@ ___
 
 #### **\[USENIX Sec'19\]** VRASED: A Verified Hardware/Software Co-Design for Remote Attestation
 - **Authors:** Ivan De Oliveira Nunes, Karim Eldefrawy, Michael Steiner, Norrathep Rattanavipanon, and Gene Tsudik
-- **In:** USENIX Security 2019
+- **In:** USENIX Security Symposium 2019
 - **Download:** [paper](http://sprout.ics.uci.edu/projects/attestation/papers/vrased.pdf)
 
 ___
