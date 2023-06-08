@@ -19,7 +19,7 @@ ___
 
 - **Authors:** Adam Caulfield, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
 - **In:** USENIX Security Symposium 2023
-- **Download:** [paper] (available soon)
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/ACFA.pdf)
 
 
 ___
