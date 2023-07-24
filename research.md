@@ -34,11 +34,11 @@ ___
 ___
 
 
-#### **\[ICCAD'23\]** Antonio Joia Neto, Adam Caulfield, Christabelle Alvares and Ivan De Oliveira Nunes
+#### **\[ICCAD'23\]** DiCA: A Hardware-Software Co-Design for Differential Check-Pointing in Intermittently Powered Devices
 
-- **Authors:** Antonio Joia Neto and Ivan De Oliveira Nunes
+- **Authors:** Antonio Joia Neto, Adam Caulfield, Christabelle Alvares and Ivan De Oliveira Nunes
 - **In:** IEEE/ACM International Conference on Computer-Aided Design
-- **Download:** [paper](available soon)
+- **Download:** [paper](available soon) (available soon)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 - **Authors:** 	Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, Norrathep Rattanavipanon and Gene Tsudik
 - **In:** IEEE/ACM International Conference on Computer-Aided Design
-- **Download:** [paper](available soon)
+- **Download:** [paper](available soon) (available soon)
 
 ___
 
