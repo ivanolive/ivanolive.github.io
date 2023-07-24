@@ -34,6 +34,24 @@ ___
 ___
 
 
+#### **\[ICCAD'23\]** Antonio Joia Neto, Adam Caulfield, Christabelle Alvares and Ivan De Oliveira Nunes
+
+- **Authors:** Antonio Joia Neto and Ivan De Oliveira Nunes
+- **In:** IEEE/ACM International Conference on Computer-Aided Design
+- **Download:** [paper](available soon)
+
+___
+
+
+#### **\[ICCAD'23\]** PARseL: Towards a Verified Root-of-Trust over seL4
+
+- **Authors:** 	Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, Norrathep Rattanavipanon and Gene Tsudik
+- **In:** IEEE/ACM International Conference on Computer-Aided Design
+- **Download:** [paper](available soon)
+
+___
+
+
 ## 2022
 
 
