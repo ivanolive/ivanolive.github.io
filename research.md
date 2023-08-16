@@ -52,6 +52,15 @@ ___
 ___
 
 
+#### **\[ESORICS'23\]** 
+
+- **Authors:** 	Ivan De Oliveira Nunes, Peter Rindal and Maliheh Shirvanian	
+- **In:** 28th European Symposium on Research in Computer Security
+- **Download:** [paper](available soon) (available soon)
+
+___
+
+
 ## 2022
 
 
