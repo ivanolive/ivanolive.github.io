@@ -52,7 +52,7 @@ ___
 ___
 
 
-#### **\[ESORICS'23\]** 
+#### **\[ESORICS'23\]** Oblivious Extractors and Improved Security in Biometric-based Authentication Systems
 
 - **Authors:** 	Ivan De Oliveira Nunes, Peter Rindal and Maliheh Shirvanian	
 - **In:** 28th European Symposium on Research in Computer Security
