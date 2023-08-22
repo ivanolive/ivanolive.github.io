@@ -10,6 +10,7 @@ ___
 
 ## Current Students
 
+
 ### PhD:
 
 #### [Adam Caulfield](https://people.rit.edu/~ac7717/) (from 2020)
@@ -19,9 +20,24 @@ ___
 #### [Liam Tyler](https://www.linkedin.com/in/liamgtyler/) (from 2022)
 
 
+## Former Students
+
+
 ### MSc:
 
 #### [Cristabelle Alvares](https://www.linkedin.com/in/christabelle-alvares/) (2023)
 
 #### [Spencer Roth](https://www.linkedin.com/in/jspencerroth/) (2023)
 
+#### [Liam Tyler](https://www.linkedin.com/in/liamgtyler/) (2022)
+
+
+### Undergrad:
+
+#### Chris Sequeira (2022)
+
+#### Spencer Roth (2022)
+
+#### Connor Jackson (2022)
+
+#### Harmon Herring (2022)
