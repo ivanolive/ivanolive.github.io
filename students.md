@@ -17,27 +17,27 @@ ___
 
 #### [Antonio Joia Neto](https://a-joia.github.io/) (from 2021)
 
-#### [Liam Tyler](https://www.linkedin.com/in/liamgtyler/) (from 2022)
+#### [Liam Tyler](https://lgt2621.github.io) (from 2022)
 
 
 ## Former Students
 
 
-### MSc:
+### M.Sc.:
 
-#### [Cristabelle Alvares](https://www.linkedin.com/in/christabelle-alvares/) (2023)
+#### [Cristabelle Alvares](https://www.linkedin.com/in/christabelle-alvares/) (graduated 2023)
 
-#### [Spencer Roth](https://www.linkedin.com/in/jspencerroth/) (2023)
+#### [Spencer Roth](https://www.linkedin.com/in/jspencerroth/) (graduated 2023)
 
-#### [Liam Tyler](https://www.linkedin.com/in/liamgtyler/) (2022)
+#### [Liam Tyler](https://lgt2621.github.io) (graduated 2022)
 
 
 ### Undergrad:
 
-#### Chris Sequeira (2022)
+#### Chris Sequeira (graduated 2022)
 
-#### Spencer Roth (2022)
+#### Spencer Roth (graduated 2022)
 
-#### Connor Jackson (2022)
+#### Connor Jackson (graduated 2022)
 
-#### Harmon Herring (2022)
+#### Harmon Herring (graduated 2022)
