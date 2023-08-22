@@ -38,7 +38,7 @@ ___
 
 - **Authors:** Antonio Joia Neto, Adam Caulfield, Christabelle Alvares and Ivan De Oliveira Nunes
 - **In:** IEEE/ACM International Conference on Computer-Aided Design
-- **Download:** [paper](available soon) (available soon)
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/DiCA.pdf)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 - **Authors:** 	Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, Norrathep Rattanavipanon and Gene Tsudik
 - **In:** IEEE/ACM International Conference on Computer-Aided Design
-- **Download:** [paper](available soon) (available soon)
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/PARseL.pdf)
 
 ___
 
