@@ -20,6 +20,13 @@ ___
 #### [Liam Tyler](https://lgt2621.github.io) (from 2022)
 
 
+### M.Sc.:
+
+#### [Alexander Collom](https://www.linkedin.com/in/alexcollom-rit/)
+
+___
+
+
 ## Former Students
 
 
