@@ -10,6 +10,11 @@ Here is a list of courses I am currently teaching or taught before.
 
 ___
 
+### Fall 2023
++ **Instructor:** Trusted Computing & Trusted Execution (RIT CSEC 530/630)
+
+___
+
 ### Spring 2023
 + **Instructor:** IoT Security  (RIT CSEC 741) 
 
