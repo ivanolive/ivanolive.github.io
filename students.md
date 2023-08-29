@@ -24,6 +24,7 @@ ___
 
 #### [Alexander Collom](https://www.linkedin.com/in/alexcollom-rit/)
 
+#### [Alexandra Lengert](todo) (visiting student)
 ___
 
 
