@@ -18,20 +18,10 @@ ___
 
 ## Research Interests
 
-I have a wide range of research interests that encompass various fields, including Security & Privacy, Computer Networking, Embedded Systems, Applied Cryptography, and particularly their intersections. Over the recent years, my research has delved into areas such as IoT/CPS Security, Content-Centric Networking Security, Secure Multi-Party Computation (MPC), Biometric-Based Authentication and Identification, and Opportunistic Mobile Networking.
+I have a wide range of research interests that encompass various fields, including Security & Privacy, Computer Networking, Embedded Systems, Applied Cryptography, and particularly their intersections. Over the recent years, my research has delved into areas such as IoT/CPS Security, System Security, Software Security, Applied Cryptography, and Networked Systems.
 
 My doctoral dissertation, completed in 2021, focused on the systematic co-design of secure and formally verified security services for resource-constrained embedded systems. These services, such as Remote Attestation, Secure Software Update, and Provable/Guaranteed Code Execution, are designed to maintain their effectiveness even in scenarios where the embedded system's software state is fully compromised.
 
-<!--
-___
-
-
-## News
-
-+ **[2021-08-11]** Started as an Assistant Professor at RIT!
-+ **[2021-06-21]** I have successfully defended my Ph.D. Thesis: Verifiable Integrity and Availability for Code and Execution in Simple Embedded Systems!
-+ **[2021-05-15]** I will be serving on NDSS 2022 and AsiaCCS 2022 Program Committees!
--->
 ___
 
 
