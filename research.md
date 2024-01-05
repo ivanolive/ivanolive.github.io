@@ -10,6 +10,21 @@ ___
 ## Publications (recent first)
 
 
+## 2024
+
+___
+
+
+#### **\[IEEE ComMag'24\]** ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control Flow Attestation 
+
+- **Authors:** Ivan De Oliveira Nunes, Norrathep Rattanavipanon, Sashidhar Jakkamsetti, and Gene Tsudik
+- **In:** IEEE Communications Magazine 2024 (to appear)
+- **Download:** [paper]()
+
+
+___
+
+
 ## 2023
 
 ___
