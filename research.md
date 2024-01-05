@@ -15,7 +15,7 @@ ___
 ___
 
 
-#### **\[IEEE ComMag'24\]** ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control Flow Attestation 
+#### **\[IEEE ComMag'24\]** Towards Remotely Verifiable Software Integrity in Resource-Constrained IoT Devices 
 
 - **Authors:** Ivan De Oliveira Nunes, Norrathep Rattanavipanon, Sashidhar Jakkamsetti, and Gene Tsudik
 - **In:** IEEE Communications Magazine 2024 (to appear)
