@@ -19,7 +19,7 @@ ___
 
 - **Authors:** Ivan De Oliveira Nunes, Norrathep Rattanavipanon, Sashidhar Jakkamsetti, and Gene Tsudik
 - **In:** IEEE Communications Magazine 2024 (to appear)
-- **Download:** [paper]()
+- **Download:** [paper](https://arxiv.org/pdf/2401.04308.pdf)
 
 
 ___
