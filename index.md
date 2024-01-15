@@ -22,7 +22,7 @@ I have a wide range of research interests that encompass various fields, includi
 
 My doctoral dissertation, completed in 2021, focused on the systematic co-design of secure and formally verified security services for resource-constrained embedded systems. These services, such as Remote Attestation, Secure Software Update, and Provable/Guaranteed Code Execution, are designed to maintain their effectiveness even in scenarios where the embedded system's software state is fully compromised.
 
-Here [ComMag'24](https://arxiv.org/pdf/2401.04308.pdf) is a (relatively short) paper that provides a high-level overview of my work on remotely verifiable software integrity for embedded devices.
+Here [[ComMag'24]](https://arxiv.org/pdf/2401.04308.pdf) is a (relatively short) paper that provides a high-level overview of my work on remotely verifiable software integrity for embedded devices.
 
 ___
 
