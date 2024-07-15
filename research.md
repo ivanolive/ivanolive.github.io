@@ -15,10 +15,16 @@ ___
 ___
 
 
+#### **\[ACM EMSoft'24 and IEEE TCAD\]** Untrusted Code Compartmentalization for Bare Metal Embedded Devices
+
+- **Authors:** Liam Tyler and Ivan De Oliveira Nunes
+- **In:** ACM SIGBED International Conference on Embedded Software (EMSOFT) and IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)(to appear)
+- **Download:** [available soon]
+
 #### **\[IEEE ComMag'24\]** Towards Remotely Verifiable Software Integrity in Resource-Constrained IoT Devices 
 
 - **Authors:** Ivan De Oliveira Nunes, Norrathep Rattanavipanon, Sashidhar Jakkamsetti, and Gene Tsudik
-- **In:** IEEE Communications Magazine 2024 (to appear)
+- **In:** IEEE Communications Magazine 2024
 - **Download:** [paper](https://arxiv.org/pdf/2401.04308.pdf)
 
 
