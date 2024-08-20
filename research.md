@@ -19,14 +19,14 @@ ___
 
 - **Authors:** Adam Caulfield, Liam Tyler, and Ivan De Oliveira Nunes
 - **In:** 40th Annual Computer Security Applications Conference (to appear)
-- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/UCCA.pdf)
+- **Download:** [available soon]
 
 
 #### **\[ACM EMSoft'24 and IEEE TCAD\]** Untrusted Code Compartmentalization for Bare Metal Embedded Devices
 
 - **Authors:** Liam Tyler and Ivan De Oliveira Nunes
 - **In:** ACM SIGBED International Conference on Embedded Software (EMSOFT) and IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)(to appear)
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/UCCA.pdf)
 
 #### **\[IEEE ComMag'24\]** Towards Remotely Verifiable Software Integrity in Resource-Constrained IoT Devices 
 
