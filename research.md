@@ -15,6 +15,13 @@ ___
 ___
 
 
+#### **\[ACSAC'24\]** SpecCFA: Enhancing Control Flow Attestation and Auditing via Application-Aware Sub-Path Speculation
+
+- **Authors:** Adam Caulfield, Liam Tyler, and Ivan De Oliveira Nunes
+- **In:** 40th Annual Computer Security Applications Conference (to appear)
+- **Download:** [available soon]
+
+
 #### **\[ACM EMSoft'24 and IEEE TCAD\]** Untrusted Code Compartmentalization for Bare Metal Embedded Devices
 
 - **Authors:** Liam Tyler and Ivan De Oliveira Nunes
