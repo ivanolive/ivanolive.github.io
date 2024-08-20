@@ -19,7 +19,7 @@ ___
 
 - **Authors:** Adam Caulfield, Liam Tyler, and Ivan De Oliveira Nunes
 - **In:** 40th Annual Computer Security Applications Conference (to appear)
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/UCCA.pdf)
 
 
 #### **\[ACM EMSoft'24 and IEEE TCAD\]** Untrusted Code Compartmentalization for Bare Metal Embedded Devices
