@@ -10,6 +10,29 @@ ___
 ## Publications (recent first)
 
 
+## 2025
+
+___
+
+
+#### **\[S&P'25\]** PEARTS: Provable Execution in Real-Time Embedded Systems
+
+- **Authors:** Antonio Joia Neto, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
+- **In:** IEEE Symposium on Security and Privacy 2025 (to appear)
+- **Download:** [available soon]
+
+___
+
+
+#### **\[S&P'25\]** SoK: Integrity, Attestation, and Auditing of Program Execution
+
+- **Authors:** Mahmoud Ammar, Adam Caulfield, and Ivan De Oliveira Nunes
+- **In:** IEEE Symposium on Security and Privacy 2025 (to appear)
+- **Download:** [available soon]
+
+___
+
+
 ## 2024
 
 ___
@@ -21,12 +44,17 @@ ___
 - **In:** 40th Annual Computer Security Applications Conference (to appear)
 - **Download:** [available soon]
 
+___
+
 
 #### **\[ACM EMSoft'24 and IEEE TCAD\]** Untrusted Code Compartmentalization for Bare Metal Embedded Devices
 
 - **Authors:** Liam Tyler and Ivan De Oliveira Nunes
 - **In:** ACM SIGBED International Conference on Embedded Software (EMSOFT) and IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)(to appear)
 - **Download:** [paper](https://people.rit.edu/~ixdics/pubs/UCCA.pdf)
+
+___
+
 
 #### **\[IEEE ComMag'24\]** Towards Remotely Verifiable Software Integrity in Resource-Constrained IoT Devices 
 
