@@ -18,7 +18,7 @@ ___
 #### **\[S&P'25\]** PEARTS: Provable Execution in Real-Time Embedded Systems
 
 - **Authors:** Antonio Joia Neto, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
-- **In:** IEEE Symposium on Security and Privacy 2025 (to appear)
+- **In:** IEEE Symposium on Security and Privacy (Oakland) 2025 (to appear)
 - **Download:** [available soon]
 
 ___
@@ -27,13 +27,22 @@ ___
 #### **\[S&P'25\]** SoK: Integrity, Attestation, and Auditing of Program Execution
 
 - **Authors:** Mahmoud Ammar, Adam Caulfield, and Ivan De Oliveira Nunes
-- **In:** IEEE Symposium on Security and Privacy 2025 (to appear)
+- **In:** IEEE Symposium on Security and Privacy (Oakland) 2025 (to appear)
 - **Download:** [available soon]
 
 ___
 
 
 ## 2024
+
+___
+
+
+#### **\[ACSAC'24\]** TRACES: TEE-based Runtime Auditing for Commodity Embedded Systems
+
+- **Authors:** Adam Caulfield, Antonio Joia Neto, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
+- **In:** 40th Annual Computer Security Applications Conference (to appear)
+- **Download:** [available soon]
 
 ___
 
