@@ -19,7 +19,7 @@ ___
 
 - **Authors:** Antonio Joia Neto, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
 - **In:** IEEE Symposium on Security and Privacy (Oakland) 2025 (to appear)
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/pearts.pdf)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 - **Authors:** Mahmoud Ammar, Adam Caulfield, and Ivan De Oliveira Nunes
 - **In:** IEEE Symposium on Security and Privacy (Oakland) 2025 (to appear)
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/SOK_runtime.pdf)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 - **Authors:** Adam Caulfield, Antonio Joia Neto, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
 - **In:** 40th Annual Computer Security Applications Conference (to appear)
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/TRACES.pdf)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 - **Authors:** Adam Caulfield, Liam Tyler, and Ivan De Oliveira Nunes
 - **In:** 40th Annual Computer Security Applications Conference (to appear)
-- **Download:** [available soon]
+- **Download:** [paper](https://people.rit.edu/~ixdics/pubs/SpecCFA.pdf)
 
 ___
 
