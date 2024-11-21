@@ -19,12 +19,9 @@ ___
 
 #### [Liam Tyler](https://lgt2621.github.io) (from 2022)
 
+#### [Alexandra Lengert](todo) (from 2024)
 
-### M.Sc.:
 
-#### [Alexander Collom](https://www.linkedin.com/in/alexcollom-rit/)
-
-#### [Alexandra Lengert](todo) (visiting student)
 ___
 
 
@@ -32,6 +29,8 @@ ___
 
 
 ### M.Sc.:
+
+#### [Alexander Collom](https://www.linkedin.com/in/alexcollom-rit/) (graduated 2023)
 
 #### [Cristabelle Alvares](https://www.linkedin.com/in/christabelle-alvares/) (graduated 2023)
 
