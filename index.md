@@ -7,10 +7,9 @@ ___
 
 ## About
 
-I am an Assistant Professor at [RIT](rit.edu) where I'm affiliated with the [Department of Cybersecurity (CSEC)](https://www.rit.edu/computing/department-computing-security), the [Global Cybersecurity Institute (GCI)](https://www.rit.edu/cybersecurity/facilities), and the [Golisano College of Computing and Information Sciences (GCCIS)](https://www.rit.edu/computing/).
-I am also a faculty member of the [Computing and Information Sciences Ph.D. program](https://www.rit.edu/study/computing-and-information-sciences-phd).
+I am an Assistant Professor of Cybersecurity at the [University of Zurich (UZH)](https://www.uzh.ch/en.html) where I'm affiliated with the [Department of Informatics (IfI)](https://www.ifi.uzh.ch/en.html). Before UZH, I was an Assistant professor at the Rochester Institute of Technology (2021 - 2025).
 
-Before RIT, I received my Ph.D. from the University of California Irvine (UCI), in 2021.
+I received my Ph.D. from the University of California Irvine (UCI), in 2021.
 At UCI I was advised by Prof. [Gene Tsudik](https://www.ics.uci.edu/~gts/) and a member of the [Sprout Lab](http://sprout.ics.uci.edu/).
 I hold a B.S. degree in Computer Engineering from the Federal University of Espirito Santo, Brazil (UFES) and an M.Sc. degree in Computer Science from the Federal University of Minas Gerais, Brazil (UFMG).
 
