@@ -5,8 +5,8 @@ highlighter:      rouge
 # Setup
 title:            Ivan De Oliveira Nunes
 tagline:          ''
-description:      'Assistant Professor at RIT'
-url:              ivan.csec.rit.edu
+description:      'University of Zurich'
+url:              ivanolive.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:           
   name:           'Ivan De Oliveira Nunes'
-  url:            ivan.csec.rit.edu
+  url:            ivanolive.github.io
 
 paginate:         5
 paginate_path:    '/blog/page:num'
