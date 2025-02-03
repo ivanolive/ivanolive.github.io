@@ -13,7 +13,6 @@ ___
 
 ### PhD:
 
-#### [Adam Caulfield](https://people.rit.edu/~ac7717/) (from 2020)
 
 #### [Antonio Joia Neto](https://a-joia.github.io/) (from 2021)
 
@@ -26,6 +25,10 @@ ___
 
 
 ## Former Students
+
+### Ph.D.:
+
+#### [Adam Caulfield](https://people.rit.edu/~ac7717/) (graduated 2025, now Postdoctoral Researcher at U. of Waterloo)
 
 
 ### M.Sc.:
