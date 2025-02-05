@@ -35,5 +35,5 @@ ___
 ___
 
 ## Contact
-+ **Email**: `<my_first_name>oliv@mail.rit.edu`
++ **Email**: `<my_first_name>.deoliveiranunes@uzh.ch`
 
