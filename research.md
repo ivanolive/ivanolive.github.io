@@ -18,7 +18,7 @@ ___
 #### **\[S&P'25\]** PEARTS: Provable Execution in Real-Time Embedded Systems
 
 - **Authors:** Antonio Joia Neto, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
-- **In:** IEEE Symposium on Security and Privacy (Oakland) 2025 (to appear)
+- **In:** IEEE Symposium on Security and Privacy (Oakland) 2025
 - **Download:** [paper](https://people.rit.edu/~ixdics/pubs/pearts.pdf)
 
 ___
@@ -27,8 +27,26 @@ ___
 #### **\[S&P'25\]** SoK: Integrity, Attestation, and Auditing of Program Execution
 
 - **Authors:** Mahmoud Ammar, Adam Caulfield, and Ivan De Oliveira Nunes
-- **In:** IEEE Symposium on Security and Privacy (Oakland) 2025 (to appear)
+- **In:** IEEE Symposium on Security and Privacy (Oakland) 2025
 - **Download:** [paper](https://people.rit.edu/~ixdics/pubs/SOK_runtime.pdf)
+
+___
+
+
+#### **\[TIFS'25\]** SLAPP: Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution
+
+- **Authors:** Norrathep Rattanavipanon and Ivan De Oliveira Nunes
+- **In:** IEEE Transactions on Information Forensics and Security (TIFS) 2025 (to appear)
+- **Download:** available soon
+
+___
+
+
+#### **\[DAC'25\] RAP-Track: Efficient Control Flow Attestation via Parallel Tracking in Commodity MCUs** 
+
+- **Authors:** Antonio Joia Neto, Adam Caulfield, and Ivan De Oliveira Nunes
+- **In:** IEEE/ACM Design Automation Conference (DAC) 2025 (to appear)
+- **Download:** available soon
 
 ___
 
