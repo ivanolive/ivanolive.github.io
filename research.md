@@ -42,7 +42,7 @@ ___
 ___
 
 
-#### **\[DAC'25\] RAP-Track: Efficient Control Flow Attestation via Parallel Tracking in Commodity MCUs** 
+#### **\[DAC'25\]** RAP-Track: Efficient Control Flow Attestation via Parallel Tracking in Commodity MCUs 
 
 - **Authors:** Antonio Joia Neto, Adam Caulfield, and Ivan De Oliveira Nunes
 - **In:** IEEE/ACM Design Automation Conference (DAC) 2025 (to appear)
