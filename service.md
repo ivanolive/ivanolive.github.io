@@ -12,7 +12,13 @@ ___
 
 #### Conference Program Committee Member:
 
+- [IEEE S&P 2026](https://sp2026.ieee-security.org/)
+
+- [VehicleSec 2025](https://www.usenix.org/conference/vehiclesec25)
+
 - [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)
+
+- [VehicleSec 2024](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/)
 
 - [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)
 
