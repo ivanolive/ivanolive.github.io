@@ -50,6 +50,13 @@ ___
 
 ___
 
+#### **\[WISEC'25\]** Run-time Attestation and Auditing: the Verifier’s Perspective 
+
+- **Authors:** Adam Caulfield, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
+- **In:** 18th ACM Conference on Security and Privacy in Wireless and Mobile Networks (to appear)
+- **Download:** available soon
+
+___
 
 ## 2024
 
