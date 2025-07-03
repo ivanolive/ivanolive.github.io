@@ -54,8 +54,8 @@ ___
 
 - **Authors:** Adam Caulfield, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
 - **In:** 18th ACM Conference on Security and Privacy in Wireless and Mobile Networks
-- **Download:** [paper](https://arxiv.org/pdf/2411.10855)
-- 
+- **Download:** [paper](https://cmsauth.uzh.ch/ifi/dam/jcr:24284eeb-3b18-46bf-a570-1d6c2f25fc11/CFA_Vrf.pdf)
+  
 ___
 
 ## 2024
