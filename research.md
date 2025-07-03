@@ -36,7 +36,7 @@ ___
 #### **\[TIFS'25\]** SLAPP: Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution
 
 - **Authors:** Norrathep Rattanavipanon and Ivan De Oliveira Nunes
-- **In:** IEEE Transactions on Information Forensics and Security (TIFS) 2025 (to appear)
+- **In:** IEEE Transactions on Information Forensics and Security (TIFS) 2025
 - **Download:** [paper](https://www.ifi.uzh.ch/dam/jcr:6ca092b6-4f8b-4e07-88e5-35c040a0e315/2025_SLAPP.pdf)
 
 ___
@@ -45,7 +45,7 @@ ___
 #### **\[DAC'25\]** RAP-Track: Efficient Control Flow Attestation via Parallel Tracking in Commodity MCUs 
 
 - **Authors:** Antonio Joia Neto, Adam Caulfield, and Ivan De Oliveira Nunes
-- **In:** IEEE/ACM Design Automation Conference (DAC) 2025 (to appear)
+- **In:** IEEE/ACM Design Automation Conference (DAC) 2025
 - **Download:** available soon
 
 ___
@@ -53,7 +53,7 @@ ___
 #### **\[WISEC'25\]** Run-time Attestation and Auditing: the Verifier’s Perspective 
 
 - **Authors:** Adam Caulfield, Norrathep Rattanavipanon, and Ivan De Oliveira Nunes
-- **In:** 18th ACM Conference on Security and Privacy in Wireless and Mobile Networks (to appear)
+- **In:** 18th ACM Conference on Security and Privacy in Wireless and Mobile Networks
 - **Download:** [paper](https://arxiv.org/pdf/2411.10855)
 - 
 ___
