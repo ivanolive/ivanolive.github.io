@@ -18,7 +18,7 @@ ___
 
 - **Authors:** Liam Tyler, Adam Caulfield, and Ivan De Oliveira Nunes
 - **In:** Applied Cryptography and Network Security (ACNS) 2026
-- **Download:** Available soon
+- **Download:** [paper](https://cmsauth.uzh.ch/ifi/dam/jcr:bfb09d55-0aa5-41a1-b67c-1ad6dbb3b766/RESPEC-CFA.pdf)
 
 ___
 
