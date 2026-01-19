@@ -9,6 +9,18 @@ ___
 
 ## Publications (recent first)
 
+## 2026
+
+___
+
+
+#### **\[ACNS'26\]** RESPEC-CFA: Representation-Aware Speculative Control Flow Attestation 
+
+- **Authors:** Liam Tyler, Adam Caulfield, and Ivan De Oliveira Nunes
+- **In:** Applied Cryptography and Network Security (ACNS) 2026
+- **Download:** Available soon
+
+___
 
 ## 2025
 
