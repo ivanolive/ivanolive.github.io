@@ -58,7 +58,7 @@ ___
 
 - **Authors:** Antonio Joia Neto, Adam Caulfield, and Ivan De Oliveira Nunes
 - **In:** IEEE/ACM Design Automation Conference (DAC) 2025
-- **Download:** available soon
+- **Download:** [paper](https://cmsauth.uzh.ch/ifi/dam/jcr:c57927e7-8ce1-4586-bb53-ca37d52f6cfd/RAP-TRACK.pdf)
 
 ___
 
