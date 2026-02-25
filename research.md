@@ -14,6 +14,15 @@ ___
 ___
 
 
+#### **\[ACNS'26\]** CARAMEL: Boosting Device Utilization in Control Flow Auditing
+
+- **Authors:** Alexandra Lengert, Adam Caulfield, and Ivan De Oliveira Nunes
+- **In:** IEEE/ACM Design Automation Conference (DAC) 2026
+- **Download:** [available soon]
+  
+___
+
+
 #### **\[ACNS'26\]** RESPEC-CFA: Representation-Aware Speculative Control Flow Attestation 
 
 - **Authors:** Liam Tyler, Adam Caulfield, and Ivan De Oliveira Nunes
