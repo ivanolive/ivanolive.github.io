@@ -14,7 +14,7 @@ ___
 ___
 
 
-#### **\[ACNS'26\]** CARAMEL: Boosting Device Utilization in Control Flow Auditing
+#### **\[DAC'26\]** CARAMEL: Boosting Device Utilization in Control Flow Auditing
 
 - **Authors:** Alexandra Lengert, Adam Caulfield, and Ivan De Oliveira Nunes
 - **In:** IEEE/ACM Design Automation Conference (DAC) 2026
