@@ -20,7 +20,7 @@ ___
 
 #### [Alexandra Lengert](todo) (from 2024)
 
-#### [Tianchi Yu]([todo](https://tianchiyu.me/)) (co-advisor, from 2025)
+#### [Tianchi Yu]([todo](https://tianchiyu.me/) (co-advisor, from 2025)
 
 #### [Sefsaf Bilal](todo) (from 2026)
 
