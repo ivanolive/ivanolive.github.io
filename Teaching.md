@@ -10,6 +10,11 @@ Here is a list of courses I am currently teaching or taught before.
 
 ___
 
+### Fall 2025
++ **Instructor:** Foundations of Cybersecurity (UZH)
++ **Instructor:** Fundamentals of Software Systems - Cybersecurity Sub-Module (UZH)
+___
+
 ### Spring 2024
 + **Instructor:** IoT Security  (RIT CSEC 741) 
 
