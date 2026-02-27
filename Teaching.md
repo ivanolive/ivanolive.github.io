@@ -13,6 +13,7 @@ ___
 ### Fall 2025
 + **Instructor:** Foundations of Cybersecurity (UZH)
 + **Instructor:** Fundamentals of Software Systems - Cybersecurity Sub-Module (UZH)
+
 ___
 
 ### Spring 2024
