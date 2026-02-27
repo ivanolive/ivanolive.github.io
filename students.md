@@ -18,7 +18,7 @@ ___
 
 #### [Liam Tyler](https://lgt2621.github.io) (from 2022)
 
-#### [Alexandra Lengert](todo) (from 2024)
+#### [Alexandra Lengert](https://al1824.github.io/) (from 2024)
 
 #### [Tianchi Yu](https://tianchiyu.me/) (co-advisor, from 2025)
 
