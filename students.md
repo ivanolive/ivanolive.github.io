@@ -34,20 +34,20 @@ ___
 #### [Adam Caulfield](https://people.rit.edu/~ac7717/) (graduated 2025, now Postdoctoral Researcher at U. of Waterloo)
 
 
-#### M.Sc.:
+### M.Sc.:
 
-##### [Alex Sutay](https://www.linkedin.com/in/alexander-sutay/) (graduated 2024)
+[Alex Sutay](https://www.linkedin.com/in/alexander-sutay/) (graduated 2024)
 
-##### [Alexander Collom](https://www.linkedin.com/in/alexcollom-rit/) (graduated 2023)
+[Alexander Collom](https://www.linkedin.com/in/alexcollom-rit/) (graduated 2023)
 
-##### [Cristabelle Alvares](https://www.linkedin.com/in/christabelle-alvares/) (graduated 2023)
+[Cristabelle Alvares](https://www.linkedin.com/in/christabelle-alvares/) (graduated 2023)
 
-##### [Spencer Roth](https://www.linkedin.com/in/jspencerroth/) (graduated 2023)
+[Spencer Roth](https://www.linkedin.com/in/jspencerroth/) (graduated 2023)
 
-##### [Liam Tyler](https://lgt2621.github.io) (graduated 2022)
+[Liam Tyler](https://lgt2621.github.io) (graduated 2022)
 
 
-#### Undergrad:
+### Undergrad:
 
 ##### Chris Sequeira (graduated 2022)
 
