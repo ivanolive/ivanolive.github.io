@@ -22,7 +22,7 @@ ___
 
 #### [Tianchi Yu](https://tianchiyu.me/) (co-advisor, from 2025)
 
-#### [Sefsaf Bilal](todo) (from 2026)
+#### [Bilel Sefsaf](todo) (from 2026)
 
 ___
 
