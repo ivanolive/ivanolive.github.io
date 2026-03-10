@@ -49,10 +49,10 @@ ___
 
 ### Undergrad:
 
-##### Chris Sequeira (graduated 2022)
+Chris Sequeira (graduated 2022)
 
-##### Spencer Roth (graduated 2022)
+Spencer Roth (graduated 2022)
 
-##### Connor Jackson (graduated 2022)
+Connor Jackson (graduated 2022)
 
-#### Harmon Herring (graduated 2022)
+Harmon Herring (graduated 2022)
