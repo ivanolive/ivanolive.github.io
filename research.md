@@ -18,7 +18,7 @@ ___
 
 - **Authors:** Alexandra Lengert, Adam Caulfield, and Ivan De Oliveira Nunes
 - **In:** IEEE/ACM Design Automation Conference (DAC) 2026
-- **Download:** [available soon]
+- **Download:** [paper](https://arxiv.org/pdf/2603.02161)
   
 ___
 
