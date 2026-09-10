@@ -14,7 +14,7 @@ ___
 ___
 
 
-#### **\[ACSAC'26\] VeCoDI: Verifiable and Confidential DNN Inference on Low-End Edge Devices** 
+#### **\[ACSAC'26\]** VeCoDI: Verifiable and Confidential DNN Inference on Low-End Edge Devices
 
 - **Authors:** M. Kiri, I. De Oliveira Nunes, A. Francillon, N. Rattanavipanon
 - **In:** IEEE Annual Computer Security Applications Conference (ACSAC) 2026
