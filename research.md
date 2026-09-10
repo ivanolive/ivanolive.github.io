@@ -14,6 +14,16 @@ ___
 ___
 
 
+#### **\[ACSAC'26\] VeCoDI: Verifiable and Confidential DNN Inference on Low-End Edge Devices** 
+
+- **Authors:** M. Kiri, I. De Oliveira Nunes, A. Francillon, N. Rattanavipanon
+- **In:** IEEE Annual Computer Security Applications Conference (ACSAC) 2026
+- **Download:** [available soon]()
+
+
+___
+
+
 #### **\[DAC'26\]** CARAMEL: Boosting Device Utilization in Control Flow Auditing
 
 - **Authors:** Alexandra Lengert, Adam Caulfield, and Ivan De Oliveira Nunes
