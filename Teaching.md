@@ -10,6 +10,12 @@ Here is a list of courses I am currently teaching or taught before.
 
 ___
 
+### Fall 2026
++ **Instructor:** Foundations of Cybersecurity (UZH)
++ **Instructor:** Fundamentals of Software Systems - Cybersecurity Module (UZH)
+
+___
+
 ### Fall 2025
 + **Instructor:** Foundations of Cybersecurity (UZH)
 + **Instructor:** Fundamentals of Software Systems - Cybersecurity Module (UZH)
