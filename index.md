@@ -17,7 +17,7 @@ ___
 
 ## Research Interests
 
-I have a wide range of research interests that encompass various fields, including Security & Privacy, Computer Networking, Embedded Systems, Applied Cryptography, and particularly their intersections. Over the recent years, my research has delved into areas such as IoT/CPS Security, System Security, Software Security, Applied Cryptography, and Networked Systems.
+My research interests encompass various fields, including Security & Privacy, Networks, Systems, Applied Cryptography, and particularly their intersections. Over the recent years, my research has delved into areas such as IoT/CPS Security, System Security, Software Security, Applied Cryptography, and Networked Systems.
 
 My doctoral dissertation, completed in 2021, focused on the systematic co-design of secure and formally verified security services for resource-constrained embedded systems. These services, such as Remote Attestation, Secure Software Update, and Provable/Guaranteed Code Execution, are designed to maintain their effectiveness even in scenarios where the embedded system's software state is fully compromised.
 
