@@ -14,9 +14,11 @@ ___
 
 - [IEEE S&P 2027](https://sp2027.ieee-security.org/)
 
-- [VehicleSec 2026](https://www.usenix.org/conference/vehiclesec25)
+- [VehicleSec 2026](https://www.usenix.org/conference/vehiclesec26)
 
 - [IEEE S&P 2026](https://sp2026.ieee-security.org/)
+
+- [VehicleSec 2025](https://www.usenix.org/conference/vehiclesec25)
 
 - [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)
 
