@@ -33,7 +33,7 @@ ___
 
 ### Ph.D.:
 
-#### [Adam Caulfield](https://people.rit.edu/~ac7717/) (graduated 2025, now Postdoctoral Researcher at U. of Waterloo)
+#### [Adam Caulfield](https://people.rit.edu/~ac7717/) (graduated 2025, now Researcher at MIT Lincoln Labs)
 
 
 ### M.Sc.:
