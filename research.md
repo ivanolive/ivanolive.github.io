@@ -31,7 +31,7 @@ ___
 
 - **Authors:** M. Kiri, I. De Oliveira Nunes, A. Francillon, N. Rattanavipanon
 - **In:** IEEE Annual Computer Security Applications Conference (ACSAC) 2026
-- **Download:** [available soon]()
+- **Download:** [pre-print](https://arxiv.org/pdf/2606.07470)
 
 
 ___
