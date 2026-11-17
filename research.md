@@ -9,6 +9,19 @@ ___
 
 ## Publications (recent first)
 
+## 2027
+
+___
+
+
+#### **\[DATE'27\]** Cross-World Time Reconciliation: Preserving RTOS Timekeeping Under Atomic Trusted Execution
+
+- **Authors:** Antonio Joia Neto, Amarin Laohajirapan, Norrathep Rattanavipanon and Ivan De Oliveira Nunes
+- **In:** Proceedings of 2027 Design, Automation and Test in Europe Conference (DATE) 2027
+- **Download:** [available soon]()
+
+___
+
 ## 2026
 
 ___
